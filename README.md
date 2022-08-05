@@ -1,2 +1,6 @@
 # 4-equals-10-solver
-Solver for the game '4=10' https://play.google.com/store/apps/details?id=app.fourequalsten.fourequalsten_app&amp;hl=en_CA&amp;gl=US
+Solver for the game '4=10' 
+
+Given 4 numbers, the objective is to use basic operations (add, subtract, multiply, divide) to reach 10. All numbers must be used. One set of parenthases is allowed
+
+The game: https://play.google.com/store/apps/details?id=app.fourequalsten.fourequalsten_app&amp;hl=en_CA&amp;gl=US
